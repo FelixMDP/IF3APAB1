@@ -16,4 +16,12 @@ ini adalah repository belajar github kelas IF3A
 
 ## Cara Install Library Dart
 
-Gunakan Perintah 'dart isntall'pada command prompt atau cmd untuk menginstall library.
+Gunakan Perintah `dart instal` pada command prompt atau cmd untuk menginstall library.
+
+## Contoh Perulangan pada Dart
+
+```dart
+for(i=0; i<=10;1++){
+print("nomor $1);
+}
+```
